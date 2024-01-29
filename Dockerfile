@@ -1,2 +1,2 @@
 From httpd:latest
-Copy . /usr/local/apache2/htdocs
+Copy /2117_infinite_loop/. /usr/local/apache2/htdocs
